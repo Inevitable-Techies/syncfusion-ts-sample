@@ -1,5 +1,8 @@
 # syncfusion-ts-sample
 
+## Pre-requirements
+**node**: Must be Above 10.17.0 and below 12.0.0
+
 ## Adding the code to sample
 step 1: Add the `html` content in the `scr/app/index.html` file.
 
