@@ -27,4 +27,4 @@ step 4: Then use the below script to refer the `bundle.js` file that you have ju
         <script src="./bundle.js"></script>
 
 ## Running the sample
-Use the command `gulp serve` to run the sample.
+Use the command `gulp start` to run the sample.
