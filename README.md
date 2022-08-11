@@ -22,7 +22,7 @@ step 2: After running the command mentioned in the step 1, you can find a file n
 
 step 3: Move this `bundle.js` file from  `dist/app` to `src/app`.
 
-step 4: Then use the below script to refer the `bundle.js` file that you have just moved to `src/app` folder.
+step 4: Then use the below script to refer the `bundle.js` file in the `src/app/index.html` file that you have just moved to `src/app` folder.
 
         <script src="./bundle.js"></script>
 
